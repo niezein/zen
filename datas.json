@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "parentId": 0,
+        "isActive": true,
+        "balance": "$3,655.34",
+        "name": "asbak",
+        "email": "1FktfHcOsI8VZo_88ZCpCGdrvh5v5VSUi"
+    },
+    {
+        "id": 2,
+        "parentId": 1,
+        "isActive": true,
+        "balance": "$1,247",
+        "name": "cukup sampai di sini",
+        "link": "1FktfHcOsI8VZo_88ZCpCGdrvh5v5VSUi"
+    }
+]
